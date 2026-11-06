@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Utwórz nowe zgłoszenie (issue) lub pull request w wybranym repozytorium.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wpisz tytuł i, jeśli chcesz, dodaj komentarz. Następnie kliknij przycisk Submit new issue.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Dodaj dowolny komentarz, a następnie kliknij Close issue lub Close pull request. Możesz też zamknąć zgłoszenie albo pull request bez komentowania.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie Quickdraw powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Otwórz repozytorium i przejdź do ustawień.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Przejdź do sekcji Collaborators i zaproś konto, które ma dostęp do repozytorium.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Utwórz nową gałąź w repozytorium.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Dodaj plik do utworzonej gałęzi.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Dodaj plik, wpisz opis commita, a na koniec zatwierdź zmiany.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Kliknij zielony przycisk Compare and pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Dodaj jako recenzenta osobę zaproszoną w kroku 2 i utwórz pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sprawdź, czy recenzent jest przypisany, a następnie kliknij Merge pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie YOLO powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Utwórz fork wybranego repozytorium.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wprowadź zmiany w swoim forku, na przykład dodaj plik lub zmodyfikuj kod. Następnie przejdź do zakładki pull requestów.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Kliknij przycisk tworzenia pull requesta.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Jeśli widzisz zielony komunikat informujący, że zmiany można scalić, kliknij Create pull request. Poczekaj, aż właściciel repozytorium scali Twoje zgłoszenie.</p><p>Do zdobycia osiągnięcia Pull Shark potrzebujesz dwóch scalonych pull requestów.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie Pull Shark powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Zainstaluj <a href=\"https://desktop.github.com/\">GitHub Desktop</a> i dodaj repozytorium ze swoich lokalnych plików.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Dodaj lokalne repozytorium, a następnie zatwierdź i wypchnij zmienione pliki.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nie musisz używać pola filtrowania. Kliknij New branch i utwórz nową gałąź dla repozytorium.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wpisz tytuł i opis, a na końcu dodaj współautora, podając jego nazwę użytkownika GitHub. Wystarczy zatwierdzić plik w repozytorium — nie wypychaj plików.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Otwórz repozytorium na GitHubie i dodaj osoby przypisane do zgłoszenia (assignees). Następnie kliknij Merge pull request. Odznakę Pair Extraordinaire otrzymają oba konta: Twoje i współautora.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie Pair Extraordinaire powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Repozytorium przypisane do Twojego konta musi otrzymać 16 gwiazdek od innych użytkowników. Mogą to być użytkownicy Twojej organizacji lub repozytorium.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie Starstruck powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Otwórz zakładkę Discussions dowolnego publicznego repozytorium i wybierz kategorię Q&amp;A (lub inną kategorię, w której można oznaczyć odpowiedź). Odpowiedzi na oficjalnym forum GitHub Community już się nie liczą, ponieważ GitHub wyłączył tam osiągnięcia.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Znajdź pytania bez odpowiedzi w wybranej kategorii i odpowiedz na nie.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Udziel poprawnej odpowiedzi. Powinna być możliwie najlepsza, aby autor pytania wybrał ją jako zaakceptowaną.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Aby zdobyć Galaxy Brain, potrzebujesz dwóch zaakceptowanych odpowiedzi w dowolnych kategoriach.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie Galaxy Brain powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>Do zdobycia tej odznaki potrzebna jest karta płatnicza i wpłata. Otwórz stronę <a href=\"https://github.com/sponsors\">GitHub Sponsors</a>, a następnie kliknij See your top dependencies.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Zobaczysz listę programistów, których możesz wesprzeć. Możesz sponsorować dowolnego użytkownika GitHub, który ma przycisk sponsorowania na swojej stronie.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wybierz osobę, którą chcesz sponsorować, a następnie określ miesięczną kwotę wpłaty.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wypełnij formularz płatności. Po jej zakończeniu odznaka powinna pojawić się na Twoim profilu. W wersji beta metody płatności były dostępne w 30 krajach.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Gotowe. Osiągnięcie Public Sponsor powinno pojawić się na liście Twoich osiągnięć.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

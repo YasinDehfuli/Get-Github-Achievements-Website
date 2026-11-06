@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Bạn cần tạo Issue mới hoặc Pull Request trong bất kỳ repo nào bạn muốn.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bây giờ bạn nên viết tiêu đề và để lại bình luận (nếu muốn). Sau đó, nhấp vào nút Submit new issue.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Viết bất kỳ nhận xét nào bạn muốn. Sau đó nhấp vào Close issue/close pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Quickdraw trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Đầu tiên, mở repo và vào settings.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Thứ hai, bạn cần vào danh mục contributor và trong phần này, hãy mời một tài khoản mà bạn có quyền truy cập vào repo.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Thứ ba, bạn cần thêm một branch mới vào repo của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bây giờ, bạn cần thêm tệp vào branch mới mà bạn đã tạo.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Thêm tệp và mô tả, cuối cùng commit các thay đổi của bạn</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bấm vào nút màu xanh lá cây, compare and pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Thêm người được mời ở bước 2 làm Reviewer và tạo pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Cuối cùng, hãy kiểm tra xem Reviewer của bạn có chưa và sau đó nhấp vào merge pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Yolo đó trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Bạn cần fork từ một repo bất kỳ nào bạn muốn.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Khi fork repo được tạo, bạn cần thay đổi một số thứ và sau đó commit để tạo pull request vào repo chính.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nhấn Create pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bây giờ bạn có thể thấy dòng màu xanh Able to merge, điều đó có nghĩa là bạn có thể merge pull request của mình. Hãy nhấp vào nút Create pull request. Sau đó, bạn phải đợi request của mình được chủ repo merge.</p><p>Bạn cần merge 2 pull request để nhận Pull Shark Achievement</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Pull Shark trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Bạn cần cài đặt <a href=\"https://desktop.github.com/\">GitHub Desktop</a>. Bạn cần thêm repo của mình từ local.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Thêm một local repository.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nhấn vào New branch để tạo branch mới cho repo của bạn.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Thêm tiêu đề cho commit, sau đó là mô tả. Cuối cùng thêm Co-Author bằng Username GitHub (người đó đã được tham gia vào repo nếu như đây là private repo). Commit và tạo pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Kiểm tra repo trên GitHub và thêm Assignees, nhấn Merge pull request (Thành tựu Pair Extraordinaire sẽ được trao cho cả hai).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Pair Extraordinaire trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Bạn chỉ cần 16 sao cho mỗi repo được đăng ký tên người dùng của bạn. Nhận từ những người dùng khác trong tổ chức hoặc repo của bạn.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Starstruck trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Mở tab Discussions của bất kỳ repository công khai nào và chọn danh mục Q&amp;A (hoặc bất kỳ danh mục nào khác cho phép đánh dấu câu trả lời). Câu trả lời trên diễn đàn GitHub Community chính thức không còn được tính nữa, vì GitHub đã tắt thành tựu ở đó.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Tìm hiểu và trả lời câu hỏi trong bất kỳ danh mục nào mà bạn muốn.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Hãy soạn câu trả lời thật chuẩn xác và hoàn chỉnh, nó cần được người hỏi chấp nhận.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bạn cần hoàn thành ít nhất 2 câu hỏi để nhận Thành tựu Galaxy Brain.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Galaxy Brain trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Đầu tiên bạn cần biết, để có được huy hiệu này, bạn cần có thẻ tín dụng và quyên góp một số tiền). Sau đó, trước tiên bạn cần mở trang GitHub Sponsors, sau đó nhấp vào nút See your top dependencies.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bạn có thể xem danh sách các developer mà bạn có thể quyên góp cho họ tại đây. (Bạn có thể được tài trợ cho bất kỳ người dùng GitHub nào có nút tài trợ trên trang của họ).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sau khi bạn tìm thấy một người để được tài trợ. bạn có thể xem một trang để chọn số tiền bạn muốn quyên góp mỗi tháng.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Một form thanh toán sẽ hiện ra. Sau khi thanh toán của bạn kết thúc, bạn có thể thấy huy hiệu trong hồ sơ của mình (30 quốc gia có phương thức thanh toán ở phiên bản Beta).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Xong, bây giờ bạn có thể thấy Thành tựu Public Sponsor trong danh sách của mình.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

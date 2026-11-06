@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Open a <b>new issue</b> (or pull request) in any repository. Your own repository works fine.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Give it a title, add a comment if you like, then click <b>Submit new issue</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Straight away, click <b>Close issue</b> (or <b>Close pull request</b>). A comment is optional.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. Quickdraw appears in the achievements list on your profile.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Open your repository and go to <b>Settings</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Under <b>Collaborators</b>, invite another account you can sign in to (a friend's account also works).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Create a <b>new branch</b> in the repository.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Add a file to that new branch.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Write a commit message and <b>commit</b> the change.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Click the green <b>Compare &amp; pull request</b> button.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Add the collaborator from step 2 as a <b>Reviewer</b>, then create the pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Without waiting for that review, click <b>Merge pull request</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. YOLO appears in your achievements list.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p><b>Fork</b> a repository of your choice.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Make a change in your fork, such as adding a file or fixing some code, then open the <b>Pull requests</b> tab.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Click <b>Create pull request</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Submit it and wait for the maintainer to merge it. You need <b>2 merged pull requests</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. Pull Shark appears in your achievements list.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Install <a href=\"https://desktop.github.com/\" target=\"_blank\" rel=\"noopener\">GitHub Desktop</a> and add your repository from its folder on your computer.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Add the local repository, then commit and push any changed files.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Click <b>New branch</b> and create a new branch for your change.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Change a file, write a summary and description, and use the <b>co-author</b> button to add your partner by their GitHub username. Then commit.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Publish the branch, open the pull request on GitHub, and click <b>Merge pull request</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. Pair Extraordinaire appears for both you and your co-author.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Build something people find useful and share it. Once one repository under your username collects <b>16 stars</b> from other users, the badge unlocks.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. Starstruck appears in your achievements list.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Open the <b>Discussions</b> tab of any public repository and pick the <b>Q&amp;A</b> category (or any category where an answer can be marked).</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Find an unanswered question and answer it.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Write a helpful, correct answer. The person who asked has to <b>mark it as the answer</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Get <b>two</b> answers accepted to unlock the badge.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. Galaxy Brain appears in your achievements list.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>You'll need a payment card. Open <a href=\"https://github.com/sponsors\" target=\"_blank\" rel=\"noopener\">GitHub Sponsors</a> and click <b>See your top dependencies</b>.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Pick a developer from the list. Anyone with a <b>Sponsor</b> button on their profile works.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Choose how much you want to give.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fill in the payment form. Sponsoring is only available in supported countries.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Done. Public Sponsor appears in your achievements list.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

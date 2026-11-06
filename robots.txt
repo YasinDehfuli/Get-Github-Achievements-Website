@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yasindehfuli.github.io/Get-Github-Achievements-Website/sitemap.xml

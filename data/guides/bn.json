@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>আপনার কোনো সংগ্রহস্থলে একটি নতুন সমস্যা আছে (Issue) অথবা অনুরোধ টান (Pull Request) তৈরি করতে হবে।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>এখন আপনাকে একটি শিরোনাম লিখতে হবে এবং একটি মন্তব্য করতে হবে (যদি আপনি চান)। এবং তারপর, \"Submit New issue\" বোতামে ক্লিক করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>আপনার ইচ্ছামত যেকোনো মন্তব্য করুন (আপনি একটি সমস্যা বন্ধ করতে পারেন বা মন্তব্য ছাড়াই অনুরোধ টানতে পারেন)। এবং তারপর \"close issue/close pull request\" এ ক্লিক করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় Quickdraw কৃতিত্ব দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>প্রথমত, আপনাকে সংগ্রহস্থলটি খুলতে হবে এবং সেটিংসে যেতে হবে।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>দ্বিতীয়ত, আপনাকে সহকর্মী বিভাগে যেতে হবে এবং এই বিভাগে, আপনার সংগ্রহস্থলে অ্যাক্সেস আছে এমন একটি অ্যাকাউন্টকে আমন্ত্রণ জানান।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>তৃতীয়ত, আপনাকে আপনার সংগ্রহস্থলে একটি নতুন শাখা যোগ করতে হবে।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>এখন, আপনাকে সেই নতুন শাখায় একটি ফাইল যুক্ত করতে হবে।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>ফাইল যোগ করুন এবং এটির জন্য বিশদ বিবরণ দিন এবং অবশেষে আপনার পরিবর্তনগুলি করুন</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>সবুজ বোতামে ক্লিক করুন, রিভিউ এবং অনুরোধ টানুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>ধাপ 2-এ একজন পর্যালোচক হিসেবে আমন্ত্রিত ব্যক্তিকে যোগ করুন এবং একটি পুল অনুরোধ তৈরি করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>অবশেষে, আপনার পর্যালোচক চেক করুন এবং তারপর \"Merge pull request\" এ ক্লিক করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় Yolo অর্জন দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>আপনাকে যেকোন রিপোজিটরি থেকে ফর্ক করতে হবে (আপনি যেকোনো রিপোজিটরি কাঁটাচামচ করতে পারেন)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>যখন আপনার \"forked\" রিপোজিটরি তৈরি করা হয়, তখন আপনাকে \"forked\" রিপোজিটরিতে কিছু পরিবর্তন করতে হবে (একটি নতুন ফাইল যোগ করা বা কোডে কিছু পরিবর্তন করার মতো যেকোনো কিছু)। এর পরে, আপনাকে \"pull request\" ট্যাবে যেতে হবে;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>create pull request বোতামে ক্লিক করুন;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>এখন আপনি \"merge\" করতে পারেন সবুজ টেক্সট প্রদর্শিত হবে, যার মানে আপনি আপনার \"pull request\" মার্জ করতে পারেন, তাই সফলভাবে আপনার \"pull request\" তৈরি করতে \"Create Pull request\" বোতামে ক্লিক করুন। তারপরে আপনার রিপোজিটরির স্রষ্টার দ্বারা আপনার অনুরোধটি প্রক্রিয়া করার জন্য আপনাকে অপেক্ষা করতে হবে।</p><p>পুল শার্ক কৃতিত্ব পেতে আপনার 2টি মার্জ সহ একটি \"pull request\" প্রয়োজন৷</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় পুল শার্ক অ্যাচিভমেন্ট দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p><a href=\"https://desktop.github.com/\">GitHub Desktop</a> আপনার অভ্যন্তরীণ সংগ্রহস্থল ফাইল থেকে আপনার সংগ্রহস্থল যোগ করার জন্য ইনস্টল করা হয়.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>একটি স্থানীয় সংগ্রহস্থল যোগ করুন এবং প্রতিশ্রুতিবদ্ধ করুন এবং আপনার পরিবর্তিত ফাইলগুলি পুশ করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>ফিল্টার বক্স ব্যবহার করার দরকার নেই, শুধু \"New Branch\" ক্লিক করুন এবং আপনার সংগ্রহস্থলের জন্য একটি নতুন শাখা তৈরি করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>আপনার শিরোনাম বাক্সে একটি সারসংক্ষেপ যোগ করুন, তারপর একটি বিবরণ যোগ করুন, অবশেষে একটি GitHub ব্যবহারকারীর দ্বারা সহ-লেখকত্ব যোগ করুন (আপনাকে যা করতে হবে তা হল আপনার সংগ্রহস্থলে একটি ফাইল কমিট করা (ফাইলগুলিকে ধাক্কা দেবেন না))।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>এখন GitHub-এ আপনার সংগ্রহস্থলটি পরীক্ষা করে দেখুন এবং \"Assignees\" যোগ করুন, এবং তারপর \"মার্জ পুল রিকোয়েস্ট\" বোতামে ক্লিক করুন (Pair Extraordinaire উভয় অ্যাকাউন্টই পাবেন (আপনি এবং সহ-লেখক))।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় পেয়ার এক্সট্রা-ডিনিয়র অর্জন দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>আপনার ব্যবহারকারীর নামে নিবন্ধিত প্রতিটি প্রকল্পের জন্য আপনার শুধুমাত্র 16 স্টার প্রয়োজন। আপনার সংস্থা বা সংগ্রহস্থলের অন্যান্য ব্যবহারকারীদের কাছ থেকে গ্রহণ করুন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় Starstruck কৃতিত্ব দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>যেকোনো পাবলিক রিপোজিটরির Discussions ট্যাবে যান এবং Q&amp;A বিভাগ (অথবা অন্য যেকোনো বিভাগ যেখানে উত্তর চিহ্নিত করা যায়) নির্বাচন করুন। GitHub-এর নিজস্ব Community ফোরামে দেওয়া উত্তর আর গণনা করা হয় না, কারণ GitHub সেখানে অর্জন বন্ধ করে দিয়েছে।</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>এখন আপনি আপনার পছন্দ অনুযায়ী অনুত্তরিত প্রশ্ন অনুসন্ধান করতে পারেন। এবং উত্তর দিতে প্রশ্ন.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>প্রশ্নের সঠিক উত্তরটি লিখুন (প্রশ্ন ডিজাইনার দ্বারা উপস্থাপিত উত্তর হিসাবে বেছে নেওয়ার জন্য আপনার উত্তরটি অবশ্যই সেরা উত্তর হতে হবে)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>গ্যালাক্সি ব্রেইন অর্জনের জন্য আপনার দুটি উপস্থাপিত উত্তর প্রয়োজন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় Galaxy Brain কৃতিত্ব দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(প্রথমে আপনাকে জানতে হবে, এই ব্যাজটি পেতে আপনার একটি ক্রেডিট কার্ড থাকতে হবে এবং কিছু অর্থ দান করতে হবে)। তারপর আপনাকে প্রথমে GitHub সমর্থক পৃষ্ঠা খুলতে হবে, এবং তারপর \"See your top dependencies\" বোতামে ক্লিক করুন৷</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>এখানে আপনি ডেভেলপারদের একটি তালিকা দেখতে পাবেন যাদেরকে আপনি অর্থ দান করতে পারেন (যেসব GitHub ব্যবহারকারীদের জন্য আপনি অর্থ দান করতে পারেন তাদের জন্য স্পনসর বোতাম দিয়ে)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>একবার আপনি একজন স্পনসর খুঁজে পেলে, আপনি মাসে কতটা দান করতে চান তা চয়ন করার জন্য আপনি একটি পৃষ্ঠা দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>এখানে একটি অর্থপ্রদানের জন্য একটি ফর্ম রয়েছে, যখন আপনার অর্থপ্রদান শেষ হবে, আপনি আপনার প্রোফাইলে আপনার ব্যাজগুলি দেখতে পাবেন (বিটা সংস্করণে এখন 30টি দেশের জন্য অর্থপ্রদানের পদ্ধতি রয়েছে)৷</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>সম্পন্ন, আপনি এখন আপনার কৃতিত্বের তালিকায় সর্বজনীন স্পনসরের কৃতিত্ব দেখতে পাবেন।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

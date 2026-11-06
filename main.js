@@ -9,6 +9,8 @@
     try { localStorage.setItem(KEY, JSON.stringify(list)); } catch (e) { /* storage blocked: still works for this visit */ }
   }
 
+  var LABEL_MARK = document.body.getAttribute('data-mark') || 'Mark as earned';
+  var LABEL_EARNED = document.body.getAttribute('data-earned') || 'Earned';
   var earned = load();
   var cards = document.querySelectorAll('.card[data-id]');
 
@@ -19,7 +21,7 @@
       card.classList.toggle('is-earned', on);
       var btn = card.querySelector('.earn');
       btn.setAttribute('aria-pressed', on ? 'true' : 'false');
-      btn.querySelector('.earn-label').textContent = on ? 'Earned' : 'Mark as earned';
+      btn.querySelector('.earn-label').textContent = on ? LABEL_EARNED : LABEL_MARK;
       var shelfItem = document.querySelector('.shelf a[href="#' + id + '"]');
       if (shelfItem) shelfItem.parentElement.classList.toggle('is-earned', on);
     });
@@ -57,6 +59,17 @@
   // Keep only ids that still exist (in case cards are renamed later).
   var valid = Array.prototype.map.call(cards, function (c) { return c.getAttribute('data-id'); });
   earned = earned.filter(function (id) { return valid.indexOf(id) !== -1; });
+
+  // Close the language menu when clicking outside it or pressing Escape.
+  var menu = document.querySelector('.lang-menu');
+  if (menu) {
+    document.addEventListener('click', function (e) {
+      if (menu.open && !menu.contains(e.target)) menu.open = false;
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && menu.open) { menu.open = false; menu.querySelector('summary').focus(); }
+    });
+  }
 
   render();
   openFromHash();

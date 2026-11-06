@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>شما باید New Issue یا Pull Request را در هر Repository که می خواهید ایجاد کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>حالا باید یک عنوان بنویسید و نظر بدهید (در صورت تمایل). و سپس . روی دکمه ارسال شماره جدید کلیک کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>هر نظری را که می‌خواهید بنویسید. (می‌توانید موضوع را بدون نظر دادن ببندید) و سپس روی Close issue/close pull request کلیک کنید. (در کمتر از 5 دقیقه باید بسته شود)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>تبریک, حالا میتوانید پین Quickdraw را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>ابتدا به بخش setting در یکی از ریپازیتوری های خود بروید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>به دسته بندی Collaborators بروید و بر روی دکمه Add People کلیک کنید و در بخش مربوطه اقدام به اینوایت کردن یک اکانت که به آن دسترسی دارید کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>یک Branch جدید ایجاد کنید, و روی New Branch کلیک کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>بر روی Add file کلیک کنید و وارد بخش Create new file یا Upload file شوید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>فایل خود را آپلود کنید و کامیت برای فایل خود گذاشته و در آخر بر روی دکمه Commit changes کلیک کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>بر روی دکمه سبز رنگ Compare &amp; pull request کلیک کنید و تغییرات خود را از برنچ دومی که ساختید به برنچ main انتقال دهید</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>یک Reviewer که در مرحله دوم آموزش آنرا به پروژه اضافه کردیم اضافه کنید و سپس روی دکمه Create pull request کلیک کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>چک کنید Reviewer که در مرحله قبل اضافه کردید در این مرحله هم تنظیم شده باشد. سپس بر روی دکمه Merge pull request کلیک کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>تبریک, حالا میتوانید پین Yolo را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>شما باید یک مخزن (هر مخزنی) را انتخاب کنید و از آن یک فورک (Fork) بگیرید</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>هنگامی که از مخزن فورک گرفتید و فورک شما ایجاد شد ، باید تغییراتی در مخزن فورکی خود ایجاد کنید (هر تغییری مانند افزودن فایل جدید یا انجام برخی تغییرات در کد ها) پس از آن باید به صفحه Pull Request بروید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>بر روی دکمه Pull Request کلیک کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>اکنون میتوانید متن سبز رنگی را مشاهده کنید ، که به معنای این است که Pull Request خود را ادغام کنید. بر روی دکمه Create Pull Request کلیک کنید تا درخواست خود را ایجاد کنید.سپس باید منتظر بمانید تا درخواست شما توسط سازنده مخزن ادغام شود.</p><p>برای دریافت این پین ، نیاز است دو درخواست ادغام شده داشته باشید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>کار انجام شد . حالا میتوانید پین Pull Shark را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>باید<a href=\"https://desktop.github.com/\"> GitHub Desktop</a> را نصب کنید و مخزن خود را از اینترنت کلون کنید. (اگر Error پیدا کردید، باید مخزن خود را از فایل مخزن داخلی خود اضافه کنید)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>پیوند HTTPS مخزن خود را کلون کنید و آن را در کادر متنی URL وارد کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>نیازی به استفاده از فیلتر باکس نیست فقط بر روی New Branch کلیک کنید و برای مخزن خود Branch جدید ایجاد کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>خلاصه‌ای از تغییرات را در کادر عنوان خود اضافه کنید، سپس یک توضیح اضافه کنید، در نهایت یک Co-author با نام کاربری GitHub اضافه کنید (فقط باید یک فایل را در مخزن خود ارسال کنید (فایل‌ها را push نکنید))</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>اکنون مخزن خود را در GitHub بررسی کنید و Assignees را اضافه کنید، و سپس بر روی دکمه Merge pull request کلیک کنید (Pair Extraordinaire را به هر دو حساب (شما و Co-Author) می دهد).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>کار تمام شد ؛ اکنون میتوانید پین Pair Extraordinaire را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>شما فقط به 16 ستاره برای هر پروژه ثبت شده در نام کاربری خود نیاز دارید. از سایر کاربران در سازمان یا مخزن خود دریافت کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>تبریک, حالا میتوانید پین Quickdraw را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>در مرحله اول به تب Discussions یکی از مخزن‌های عمومی (public repository) بروید و دسته‌بندی Q&amp;A (یا هر دسته‌بندی دیگری که امکان انتخاب پاسخ در آن وجود دارد) را انتخاب کنید. پاسخ‌هایی که در انجمن رسمی GitHub Community داده می‌شوند دیگر حساب نمی‌شوند، چون گیت‌هاب دریافت پین را در آن‌جا غیرفعال کرده است.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>حال نیاز است از دسته بندی انتخاب شده . به سوالات کاربران پاسخ دهید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>به سوال پرسیده شده پاسخی درست کامل و صحیح بدهید. پاسخ خود را بنویسید و ثبت کنید. (پاسخ شما باید بهترین پاسخ ممکن باشد تا به عنوان پاسخ ارسالی توسط طراح سوال انتخاب شود).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>برای دریافت پین Galaxy Brain به دو پاسخ ارسال شده در هر دسته بندی که می خواهید نیاز دارید</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>تبریک, حالا میتوانید پین Galaxy Brain را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(در قدم اول بدانید که برای دریافت این پین به کمک مالی و کارت اعتباری نیاز دارید) . در گام بعدی باید صفحه حامیان مالی گیت هاب را باز کنید و سپس بر روی دکمه مشخص شده کلیک نمایید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>میتوانید در این قسمت فهرستی از توسعه دهندگان را مشاهده کنید.(شما میتوانید به هر یک از کاربرانی که دکمه حمایت مالی دارند ، کمک کنید)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>بعد از انتخاب کاربر مورد نظر میتوانید صفحه ایی را مشاهده کنید تا انتخاب کنید در ماه چقدر میخواهید کمک مالی انجام دهید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>پس از پاین پرداخت ، میتوانید نشان خود را در نمایه مشاهده کنید (در نسخه بتا 30 کشور برای روش های پرداخت موجود میباشد)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>کار تمام شد ؛ اکنون میتوانید پین Public Sponsor را در پروفایل خود مشاهده کنید.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

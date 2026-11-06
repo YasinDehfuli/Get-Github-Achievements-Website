@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Sie müssen in jedem gewünschten Repository ein neues Issue oder einen Pull Request erstellen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Jetzt sollten Sie einen Titel schreiben und einen Kommentar hinterlassen (wenn Sie möchten). und dann . Klicken Sie auf die Schaltfläche „Neues Problem einreichen“.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Schreiben Sie einen beliebigen Kommentar (Sie können Issue oder Pull Request auch schließen, ohne einen Kommentar abzugeben). Klicken Sie dann auf Issue schließen/Pull Request schließen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie den Quickdraw-Erfolg in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Zuerst müssen Sie das Repository öffnen und zu den Einstellungen gehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Zweitens müssen Sie zur Kategorie „Mitarbeiter“ gehen und in diesem Abschnitt ein Konto einladen, mit dem Sie Zugriff auf das Repository haben.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Drittens müssen Sie Ihrem Repository einen neuen Zweig hinzufügen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Jetzt müssen Sie dem neu erstellten Zweig eine Datei hinzufügen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fügen Sie die Datei hinzu, übernehmen Sie die Beschreibung dafür und übernehmen Sie schließlich Ihre Änderungen</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klicken Sie auf den grünen Button, vergleichen Sie und ziehen Sie die Anfrage.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fügen Sie die eingeladene Person in Schritt 2 als Prüfer hinzu und erstellen Sie eine Pull-Anfrage.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Überprüfen Sie abschließend, ob Ihr Prüfer vorhanden ist, und klicken Sie dann auf Pull-Anfrage zusammenführen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie den Yolo-Erfolg in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Sie müssen einen Fork von einem Repository erhalten (Sie können jedes gewünschte Repository forken).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wenn Ihr gespaltenes Repository erstellt wird, müssen Sie einige Änderungen am gespaltenen Repository vornehmen (Änderungen wie das Hinzufügen einer neuen Datei oder einige Änderungen an Codes!). Danach müssen Sie zur Registerkarte „Pull-Anfrage“ gehen;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klicken Sie auf die Schaltfläche „Pull-Anfrage erstellen“;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Jetzt sehen Sie den grünen Text „Merge möglich“, der bedeutet, dass Sie Ihre Pull-Anfrage zusammenführen können. Klicken Sie also auf die Schaltfläche „Pull-Anfrage erstellen“, um Ihre Pull-Anfrage erfolgreich zu erstellen. Dann müssen Sie warten, bis Ihre Anfrage vom Ersteller des Repositorys zusammengeführt wird.</p><p>Sie benötigen 2 zusammengeführte Pull-Anfragen, um die Pull Shark-Errungenschaft zu erhalten</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie den Pull Shark-Erfolg in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Sie müssen <a href=\"https://desktop.github.com/\">GitHub Desktop</a> installieren und Ihr Repository aus dem Internet klonen. (Wenn Sie einen Fehler gefunden haben, müssen Sie Ihr Repository aus Ihrer internen Repository-Datei hinzufügen.)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klonen Sie den HTTPS-Link Ihres Repositorys und fügen Sie ihn in das URL-Textfeld ein.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sie müssen kein Filterfeld verwenden. Klicken Sie einfach auf „Neuer Zweig“ und „Neuen Zweig für Ihr Repository erstellen“.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fügen Sie eine Zusammenfassung in Ihr Titelfeld ein, fügen Sie dann eine Beschreibung hinzu und fügen Sie zuletzt einen Co-Autor mit Benutzernamen GitHub hinzu (Sie müssen nur eine Datei in Ihrem Repository festschreiben (die Dateien nicht übertragen)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fügen Sie eine Zusammenfassung in Ihr Titelfeld ein, fügen Sie dann eine Beschreibung hinzu und fügen Sie zuletzt einen Co-Autor mit Benutzernamen GitHub hinzu (Sie müssen nur eine Datei in Ihrem Repository festschreiben (die Dateien nicht übertragen)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie den „Pair Extraordinaire“-Erfolg in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Sie benötigen nur 16 Sterne für jedes unter Ihrem Benutzernamen registrierte Projekt. Erhalten Sie von anderen Benutzern Ihrer Organisation oder Ihres Repositorys.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie den Starstruck-Erfolg in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Öffnen Sie den Tab „Discussions“ eines beliebigen öffentlichen Repositorys und wählen Sie die Kategorie „Q&amp;A“ (oder eine andere Kategorie, in der eine Antwort markiert werden kann). Antworten im offiziellen GitHub-Community-Forum zählen nicht mehr, da GitHub dort Achievements deaktiviert hat.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Jetzt müssen Sie unbeantwortete Fragen in den gewünschten Kategorien finden. und beantworte die Fragen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Schreiben Sie die richtige Antwort auf die Frage (Ihre Antwort muss die bestmögliche sein, damit sie vom Fragendesigner als eingereichte Antwort ausgewählt werden kann).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sie benötigen zwei eingereichte Antworten in allen Kategorien, in denen Sie den Galaxy Brain-Erfolg erhalten möchten</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie die Galaxy Brain-Errungenschaft in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Zuerst müssen Sie wissen, dass Sie für den Erhalt dieses Abzeichens eine Kreditkarte benötigen und etwas Geld spenden müssen). Dann müssen Sie zuerst die GitHub-Sponsorenseite öffnen und dann auf die Schaltfläche „Ihre wichtigsten Abhängigkeiten anzeigen“ klicken</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Hier können Sie eine Liste der Entwickler sehen, die Sie spenden können. (Sie können von jedem GitHub-Benutzer gesponsert werden, der auf seinen Seiten über die Schaltfläche „Sponsor“ verfügt.)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nachdem Sie eine Person gefunden haben, die Sie unterstützen möchten. Sie können eine Seite sehen, auf der Sie auswählen können, wie viel Sie pro Monat spenden möchten.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nach Abschluss Ihrer Zahlung finden Sie hier ein Zahlungsformular. Sie können Ihr Abzeichen in Ihrem Profil sehen (in der Beta-Version verfügen derzeit 30 Länder über Zahlungsmethoden).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Fertig. Jetzt können Sie die Leistung des öffentlichen Sponsors in Ihrer Erfolgsliste sehen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

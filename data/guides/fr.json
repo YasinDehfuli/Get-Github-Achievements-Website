@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Vous devez créer un nouveau problème ou une demande d'extraction dans le référentiel de votre choix.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Maintenant, vous devez écrire un titre et laisser un commentaire (si vous le souhaitez). et puis . Cliquez sur le bouton Soumettre un nouveau problème.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Écrivez le commentaire de votre choix (vous pouvez également fermer le problème ou la demande d'extraction sans commenter.), puis cliquez sur Fermer le problème / fermer la demande d'extraction.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation Quickdraw dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Tout d'abord, vous devez ouvrir le référentiel et accéder aux paramètres.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Deuxièmement, vous devez vous rendre dans la catégorie des collaborateurs et dans cette section, inviter un compte auquel vous avez accès au référentiel.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Troisièmement, vous devez ajouter une nouvelle branche à votre référentiel.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Maintenant, vous devez ajouter un fichier à la nouvelle branche que vous avez créée.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ajoutez le fichier et validez sa description et validez enfin vos modifications</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Cliquez sur le bouton vert, comparez et tirez la demande.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ajoutez la personne invitée à l'étape 2 en tant que réviseur et créez une demande d'extraction.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Enfin, vérifiez que votre réviseur, puis cliquez sur Merge pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation Yolo dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Vous devez obtenir un fork à partir d'un référentiel (vous pouvez forker n'importe quel référentiel de votre choix).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Lors de la création de votre référentiel forké, vous devez apporter des modifications au référentiel forké (toutes les modifications telles que l'ajout d'un nouveau fichier ou la modification des codes !), Après cela, vous devez accéder à l'onglet de demande d'extraction .</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Cliquez sur le bouton créer une pull request .</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Vous pouvez maintenant voir le texte vert capable de fusionner, ce qui signifie que vous pouvez fusionner votre demande extraite. Cliquez donc sur le bouton Créer une demande d'extraction pour créer votre demande d'extraction avec succès. Ensuite, vous devez attendre que votre demande soit fusionnée par le créateur du référentiel.</p><p>Vous avez besoin de 2 demandes de tirage fusionnées pour obtenir le succès Pull Shark</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation Pull Shark dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Vous devez installer <a href=\"https://desktop.github.com/\">GitHub Desktop</a> et cloner votre référentiel à partir d'Internet. (si vous avez trouvé une erreur, vous devez ajouter votre référentiel à partir de votre fichier de référentiel interne)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Clonez votre lien HTTPS de référentiel et insérez-le dans la zone de texte URL.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Pas besoin d'utiliser la boîte de filtre, cliquez simplement sur Nouvelle branche et Créer une nouvelle branche pour votre référentiel</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ajoutez un résumé dans votre zone de titre, puis ajoutez une description, enfin ajoutez un co-auteur par nom d'utilisateur GitHub (vous devez simplement valider un fichier dans votre référentiel (ne poussez pas les fichiers)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Vérifiez maintenant votre référentiel sur GitHub et ajoutez des cessionnaires, puis cliquez sur le bouton Fusionner la demande d'extraction (la paire extraordinaire donnera aux deux comptes (vous et co-auteur)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation paire extraordinaire dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Vous n'avez besoin que de 16 étoiles pour chaque projet enregistré sous votre nom d'utilisateur. Recevez d'autres utilisateurs de votre organisation ou de votre référentiel .</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation Starstruck dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Ouvrez l'onglet Discussions de n'importe quel dépôt public et choisissez la catégorie Q&amp;A (ou toute autre catégorie où une réponse peut être marquée). Les réponses publiées sur le forum officiel GitHub Community ne comptent plus, car GitHub y a désactivé les succès.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Vous devez maintenant trouver les questions sans réponse dans toutes les catégories de votre choix. et répondre aux questions.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Écrivez la réponse correcte à la question (votre réponse doit être la meilleure réponse possible pour être sélectionnée comme réponse soumise par le concepteur de la question).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Vous avez besoin de deux réponses soumises dans toutes les catégories pour lesquelles vous souhaitez obtenir le succès Galaxy Brain</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation Galaxy Brain dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Vous devez d'abord savoir, pour obtenir ce badge, vous avez besoin d'une carte de crédit et donner de l'argent). Ensuite, vous devez d'abord ouvrir la page des sponsors GitHub, puis cliquer sur le bouton Voir vos principales dépendances.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Vous pouvez voir une liste de développeurs que vous pouvez leur donner ici. (Vous pouvez être parrainé par tous les utilisateurs de GitHub qui ont un bouton sponsorisé sur leurs pages.)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Après avoir trouvé une personne à parrainer. vous pouvez voir une page pour sélectionner le montant que vous souhaitez donner par mois.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Il y a un formulaire de paiement ici, une fois votre paiement terminé. Vous pouvez voir votre badge dans votre profil (dans la version bêta, 30 pays ont des méthodes de paiement pour l'instant).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terminé, vous pouvez maintenant voir cette réalisation de sponsor public dans votre liste de réalisations.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

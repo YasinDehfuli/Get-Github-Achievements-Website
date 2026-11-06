@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>आपको किसी भी रिपॉजिटरी में नया मुद्दा (Issue) या पुल रिक्वेस्ट (Pull Request) बनाना होगा।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>अब आपको एक शीर्षक लिखना होगा और एक टिप्पणी छोड़नी है (यदि आप चाहें)। और फिर, \"Submit new issue\" बटन पर क्लिक करें।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>आप जो भी टिप्पणी छोड़ना चाहते हैं (आप बिना टिप्पणी के ही मुद्दा या पुल रिक्वेस्ट को बंद कर सकते हैं)। और फिर \"Close issue / close pull request\" पर क्लिक करें।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में Quickdraw अचीवमेंट देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>सबसे पहले, आपको रिपॉजिटरी खोलनी है और सेटिंग्स पर जाना है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>दूसरे, आपको सहकर्मी श्रेणी में जाना है और इस खंड में, एक ऐसे खाते को आमंत्रित करें जिसे आपको रिपॉजिटरी तक पहुँच है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>तीसरे, आपको अपनी रिपॉजिटरी में एक नई शाखा जोड़नी है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>अब, आपको उस नई शाखा में एक फ़ाइल जोड़नी है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>फ़ाइल जोड़ें और उसके लिए विवरण कमिट करें और अंत में अपने परिवर्तनों को कमिट करें</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>हरित बटन पर क्लिक करें, समीक्षा और पुल अनुरोध।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>चरण-2 में आमंत्रित व्यक्ति को समीक्षक के रूप में जोड़ें, और पुल अनुरोध बनाएं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>आखिरकर, अपने समीक्षक को जांचें और फिर \"Merge pull request\" पर क्लिक करें।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में Yolo अचीवमेंट देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>आपको किसी भी रिपॉजिटरी से fork लेना होगा (आप किसी भी रिपॉजिटरी को fork कर सकते हैं)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>जब आपकी forked रिपॉजिटरी बन जाए, तो आपको forked रिपॉजिटरी पर कुछ बदलाव करने की आवश्यकता है (नई फ़ाइल जोड़ना या कोड में कुछ बदलाव करना जैसा कुछ भी)। इसके बाद, आपको pull request टैब पर जाना होगा;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>create pull request बटन पर क्लिक करें;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>अब आप merge कर सकते हैं का हरित पाठ दिखाई देगा, जिसका अर्थ है कि आप अपने pull request को merge कर सकते हैं, इसलिए सफलता से अपना pull request बनाने के लिए Create Pull request बटन पर क्लिक करें। फिर आपको रिपॉजिटरी के निर्माता द्वारा आपकी अनुरोध की प्रतीक्षा करनी होगी।</p><p>पुल शार्क उपलब्धि प्राप्त करने के लिए आपको 2 मर्ज़ युक्त pull request की आवश्यकता है</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में पुल शार्क अचीवमेंट देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p><a href=\"https://desktop.github.com/\">GitHub Desktop</a> इंस्टॉल करें, अपने आंतरिक रिपॉजिटरी फ़ाइल से अपनी रिपॉजिटरी जोड़ना है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>एक स्थानीय रिपॉजिटरी जोड़ें और अपनी बदली गई फ़ाइलों को कमिट और पुश करें।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>फ़िल्टर बॉक्स का उपयोग करने की आवश्यकता नहीं है, बस \"New branch\" पर क्लिक करें और अपनी रिपॉजिटरी के लिए एक नई शाखा बनाएं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>अपने शीर्षक बॉक्स में एक सारांश जोड़ें, फिर एक विवरण जोड़ें, अंत में GitHub उपयोगकर्ता के द्वारा सह-लेखक जोड़ें (आपको बस अपनी रिपॉजिटरी में एक फ़ाइल कमिट करनी है (फ़ाइलें पुश न करें))।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>अब अपनी रिपॉजिटरी को GitHub पर चेक करें और Assignees जोड़ें, और फिर \"Merge pull request\" बटन पर क्लिक करें (Pair Extraordinaire दोनों खातों को मिलेगा (आप और सह-लेखक))।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में पेयर एक्स्ट्रा-डिनेयर उपलब्धि देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>आपको अपने उपयोगकर्ता नाम पर पंजीकृत प्रत्येक परियोजना के लिए केवल 16 स्टार की आवश्यकता है। अपने संगठन या रिपॉजिटरी पर अन्य उपयोगकर्ताओं से प्राप्त करें।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में Starstruck अचीवमेंट देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>किसी भी सार्वजनिक (public) रिपॉजिटरी के Discussions टैब पर जाएँ और Q&amp;A श्रेणी (या कोई भी अन्य श्रेणी जिसमें उत्तर को चिह्नित किया जा सकता है) चुनें। GitHub के अपने Community फ़ोरम में दिए गए उत्तर अब नहीं गिने जाते, क्योंकि GitHub ने वहाँ उपलब्धियाँ बंद कर दी हैं।</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>अब आपको जितनी भी श्रेणियों में चाहें, वहां अनुत्तरित प्रश्नों को ढूंढना है। और प्रश्नों का उत्तर देना है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>सवाल का सही उत्तर लिखें (आपका उत्तर प्रश्न डिज़ाइनर द्वारा प्रस्तुत उत्तर के रूप में चयन होने के लिए सबसे अच्छा उत्तर होना चाहिए)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>गैलेक्सी ब्रेन अचीवमेंट प्राप्त करने के लिए आपको दो प्रस्तुत किए गए उत्तरों की आवश्यकता है।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में गैलेक्सी ब्रेन अचीवमेंट देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(सबसे पहले आपको यह जानना होगा, इस बैज प्राप्त करने के लिए आपको क्रेडिट कार्ड और कुछ धन दान करना होगा)। तब आपको पहले GitHub सपोंसर्स पृष्ठ खोलना है, और फिर \"See your top dependencies\" बटन पर क्लिक करें।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>यहां आप उन डेवेलपर्स की सूची देख सकते हैं जिन्हें आप यहां धन दान कर सकते हैं (आप उन GitHub उपयोगकर्ताओं के सपोंसर बटन के साथ जो धन दान कर सकते हैं)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>जब आपने सपोंसर करने वाले व्यक्ति को खोज लिया है, तो आपको महीने भर में कितना दान करना चाहते हैं, इसे चुनने के लिए एक पृष्ठ दिखाई देगा।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>यहां एक भुगतान के लिए एक फॉर्म है, जब आपका भुगतान समाप्त हो जाएगा, तो आप अपने प्रोफ़ाइल में अपने बैज देख सकते हैं (बीटा संस्करण में 30 देशों के लिए अब भुगतान के तरीके हैं)।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>हो गया, अब आप अपनी उपलब्धियों सूची में पब्लिक सपोंसर अचीवमेंट देख सकते हैं।</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

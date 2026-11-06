@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Вам нужно создать New Issue или Pull Request в любом репозитории, который вы хотите.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Теперь вы должны написать заголовок и оставить комментарий (если хотите). а потом . Нажмите кнопку «Отправить новую проблему».</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Напишите любой комментарий, который вы хотите (вы также можете закрыть проблему или запрос на извлечение без комментариев.), А затем нажмите «Закрыть проблему/закрыть запрос на извлечение».</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово, теперь вы можете увидеть это достижение Quickdraw в своем списке достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Во-первых, вам нужно открыть репозиторий и перейти к настройкам.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Во-вторых, вам нужно перейти в категорию соавторов и в этом разделе пригласить учетную запись, у которой есть доступ к репозиторию.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>В-третьих, вам нужно добавить новую ветку в ваш репозиторий.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Теперь вам нужно добавить файл в новую созданную вами ветку.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Добавьте файл и зафиксируйте описание для него и, наконец, зафиксируйте свои изменения.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Нажмите на зеленую кнопку, сравните и вытяните запрос.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Добавьте приглашенного на шаге 2 в качестве рецензента и создайте запрос на вытягивание.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Наконец, проверьте, что ваш рецензент, а затем нажмите «Объединить запрос на вытягивание».</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово, теперь вы можете увидеть это достижение Yolo в списке своих достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Вам нужно получить форк из репозитория (вы можете форкнуть любой репозиторий, который хотите).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Когда ваш разветвленный репозиторий создается, вам нужно внести некоторые изменения в разветвленный репозиторий (любые изменения, такие как добавление нового файла или внесение некоторых изменений в коды!), После этого вам нужно перейти на вкладку запроса на извлечение;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Click on create pull request button ;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Теперь вы видите, что можете объединить зеленый текст, который означает, что вы можете объединить свой запрос на включение, поэтому нажмите кнопку «Создать запрос на вытягивание», чтобы успешно создать запрос на вытягивание. Затем вам нужно дождаться, пока ваш запрос будет объединен создателем репозитория.</p><p>Вам нужно 2 объединённых пулл-реквеста, чтобы получить достижение Pull Shark.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово, теперь вы можете увидеть достижение Pull Shark в своем списке достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Вам нужно установить <a href=\"https://desktop.github.com/\">GitHub Desktop</a> , И клонируйте свой репозиторий из Интернета. (если вы обнаружили какую-либо ошибку, вам нужно добавить свой репозиторий из вашего внутреннего файла репозитория)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Клонируйте ссылку HTTPS на репозиторий и вставьте ее в текстовое поле URL.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Не нужно использовать поле фильтра, просто нажмите «Новая ветка» и «Создать новую ветку» для вашего репозитория.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Добавьте резюме в поле заголовка, затем добавьте описание, наконец, добавьте соавтора по имени пользователя GitHub (вам нужно просто зафиксировать файл в своем репозитории (не нажимайте файлы)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Теперь проверьте свой репозиторий на GitHub и добавьте Assignees , а затем нажмите кнопку запроса на слияние (Pair Extraordinaire предоставит обеим учетным записям (вам и соавтору)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово. Теперь вы можете увидеть достижение Pair Extraordinaire в списке своих достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Вам нужно всего 16 звезд для каждого проекта, зарегистрированного на ваше имя пользователя. Получать от других пользователей вашей организации или репозитория.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово. Теперь вы можете увидеть достижение Starstruck в списке достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Откройте вкладку Discussions любого публичного репозитория и выберите категорию Q&amp;A (или любую другую категорию, в которой можно отметить ответ). Ответы на официальном форуме GitHub Community больше не засчитываются, так как GitHub отключил там достижения.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Теперь вам нужно найти вопросы без ответа в любых категориях, которые вы хотите. и ответьте на вопросы.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Напишите правильный ответ на вопрос (Ваш ответ должен быть лучшим из возможных ответов, чтобы дизайнер вопросов выбрал его в качестве представленного ответа).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Вам нужно два отправленных ответа в любых категориях, которые вы хотите получить, чтобы получить достижение Galaxy Brain.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово, теперь вы можете увидеть достижение Galaxy Brain в своем списке достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Сначала вам нужно знать, что для получения этого значка вам нужна кредитная карта и пожертвовать немного денег). Затем вам нужно сначала открыть страницу спонсоров GitHub, а затем нажать кнопку «Просмотреть ваши основные зависимости».</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Вы можете увидеть список разработчиков, которым вы можете их пожертвовать, здесь.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>После того, как вы нашли человека, которого нужно спонсировать. вы можете увидеть страницу, чтобы выбрать, сколько вы хотите пожертвовать в месяц.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Здесь есть форма для оплаты, после завершения оплаты. Вы можете увидеть свой значок в своем профиле (в бета-версии на данный момент 30 стран имеют способы оплаты).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Готово. Теперь вы можете увидеть достижение Public Sponsor в списке своих достижений.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

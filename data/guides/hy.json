@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Դուք պետք է ստեղծեք նոր խնդիր կամ փուլլ ռեքուեսթ ցանկացած ռեպոյի վրա, որը ցանկանում եք:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Այժմ դուք պետք է գրեք վերնագիր և թողեք մեկնաբանություն (եթե ցանկանում եք) և հետո սեղմեք «Submit New Issue» կոճակը:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Գրեք ցանկացած մեկնաբանություն (կարող եք նաև փակել խնդիրը կամ ուղարկել հարցումը առանց մեկնաբանությունների): Այնուհետև սեղմեք Փակել խնդիրը/Փակել փուլլ ռեքուեսթը:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Quickdraw ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Նախ, դուք պետք է բացեք ռեպո և անցնեք կարգավորումների բաժին:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Երկրորդ, դուք պետք է գնաք համահեղինակների կատեգորիա և այս բաժնում հրավիրեք օգտատեր, որին դուք թույլ եք տվել մուտք գործի ռեպո:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Երրորդ, դուք պետք է նոր բրենչ ավելացնեք ձեր պահեստում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Այժմ դուք պետք է ավելացնեք ֆայլը ձեր ստեղծած նոր բրենչում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ավելացրեք ֆայլ և կատարեք դրա նկարագրությունը և վերջապես կատարեք ձեր փոփոխությունները:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Սեղմեք կանաչ կոճակը, համեմատեք և փուլլ արեք ռեքուեսթը:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ավելացրեք հրավիրված օգտատիրոջը քայլ 2-ում որպես վերանայող և ստեղծեք փուլլ ռեքուեսթ:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ի վերջո, ստուգեք ձեր վերանայողին և կտտացրեք «Merge Pull Request»:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Yolo ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Դուք պետք է ֆոռք ստանաք ռեպոյից (կարող եք ֆոռքել ցանկացած ռեպոյից, որը ցանկանում եք):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Երբ ձեր ֆոռք եղած ռեպոն ստեղծվի, դուք պետք է որոշ փոփոխություններ կատարեք ֆոռք եղած ռեպոյում (ցանկացած փոփոխություն, օրինակ՝ ավելացնել նոր ֆայլ կամ որոշ փոփոխություններ կատարել կոդերի վրա):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Կտտացրեք «Create a Pull Request» կոճակին։</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Այժմ դուք կարող եք տեսնել, որ կարող եք «Merge» կանաչ տեքստը, ինչը նշանակում է, որ դուք կարող եք մերջ անել ձեր փուլլ ռեքուեսթը, այնպես որ սեղմեք «Create a Pull Request» կոճակը, որպեսզի ձեր փուլլ ռեքուեսթը հաջողությամբ ստեղծվի: Այնուհետև դուք պետք է սպասեք, որ ձեր հարցումը մերջ արվի ռեպոն ստեղծողի կողմից:</p><p>Ձեզ անհրաժեշտ է 2 միավորված փուլլ ռեքուեսթ՝ Pull Shark ձեռքբերումը ստանալու համար</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Pull Shark ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Դուք պետք է տեղադրեք [GitHub Desktop] (https://desktop.github.com/) , Դուք պետք է ավելացնեք ձեր ռեպոն ձեր ներքին պահոցից:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատճենեք ռեպոյի HTTPS հղումը և տեղադրեք այն URL տեքստային վանդակում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Կարիք չկա օգտագործել զտիչ տուփը, պարզապես սեղմեք «New Branch» և Ստեղծեք նոր բրենչ ձեր ռեպոյի համար</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Վերնագրի դաշտում ավելացրեք ամփոփագիր, այնուհետև ավելացրեք նկարագրություն, վերջում ավելացրեք համահեղինակ GitHub-ի ցանկացած օգտատիրոջ օգտանունով (ուղղակի պետք է ֆայլը մուտքագրեք ձեր ռեպոն (ֆայլերը փուշ մի արեք)):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Այժմ ստուգեք ձեր GitHub ռեպոն և ավելացրեք հանձնարարվածներին, այնուհետև սեղմեք «Merge Pull Request» կոճակը (Pair Extraordinaire-ը կտրամադրվի երկու հաշիվներին (ձեզ և համահեղինակին)):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Pair Extraordinaire ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Ձեր օգտանունով գրանցված յուրաքանչյուր նախագծի համար անհրաժեշտ է ընդամենը 16 աստղ: Ստացեք ձեր կազմակերպության կամ ռեպոյի այլ օգտվողներից:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Starstruck ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Բացեք ցանկացած հանրային ռեպոզիտորիայի Discussions ներդիրը և ընտրեք Q&amp;A կատեգորիան (կամ ցանկացած այլ կատեգորիա, որտեղ պատասխանը կարելի է նշել որպես ընդունված): GitHub-ի պաշտոնական Community ֆորումում տրված պատասխաններն այլևս չեն հաշվվում, քանի որ GitHub-ն այնտեղ անջատել է ձեռքբերումները:</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Այժմ դուք պետք է անպատասխան հարցեր գտնեք ձեր ուզած կատեգորիաներում և պատասխանեք հարցերին:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Գրեք հարցի ճիշտ պատասխանը (Ձեր պատասխանը պետք է լինի հնարավոր լավագույն պատասխանը, որպեսզի ընտրվի որպես ներկայացված պատասխան հարցի նախագծողի կողմից):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ձեզ անհրաժեշտ է երկու ճիշտ ընտրված պատասխաններ ցանկացած կատեգորիայում, եթե ցանկանում եք ստանալ Galaxy Brain ձեռքբերումը:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Galaxy Brain ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Նախ դուք պետք է իմանաք, որ այս նշանը ստանալու համար ձեզ հարկավոր է կրեդիտ քարտ և որոշակի գումար նվիրաբերել): Այնուհետև նախ պետք է բացեք GitHub-ի աջակիցների էջը և սեղմեք «See Your Top Dependencies» կոճակը:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Դուք կարող եք տեսնել օգտատերերի ցանկը, որոնց կարող եք նվիրաբերել այստեղ: (Դուք կարող եք հովանավորվել GitHub-ի ցանկացած օգտատերերի կողմից, ովքեր ունեն հովանավորման կոճակ իրենց էջում):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Այն բանից հետո, երբ գտաք հովանավորվող անձին: դուք կտեսնեք մի էջ՝ ընտրելու համար, թե որքան եք ցանկանում նվիրաբերել ամսական:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Այստեղ վճարման դաշտեր կան։ Վճարման ավարտից հետո դուք կարող եք տեսնել ձեր նշանը ձեր պրոֆիլում (բետա տարբերակում 30 երկրներ առայժմ վճարման եղանակներ ունեն):</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Պատրաստ է, այժմ դուք կարող եք տեսնել Public Sponsor ձեռքբերումը ձեր ձեռքբերումների ցանկում:</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

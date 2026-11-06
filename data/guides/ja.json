@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>好きなリポジトリで新しいイシューまたはプルリクエストを作成する必要があります。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>次に、タイトルを書いてコメントを残します（必要なら）。そして、新しいイシューを提出するボタンをクリックします。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>コメントを書いても構いません（コメントなしでイシューやプルリクエストを閉じることもできます）。その後、「イシューを閉じる」または「プルリクエストを閉じる」をクリックします。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストに「Quickdraw」の達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>まず、リポジトリを開き、設定に移動する必要があります。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>次に、共同作業者のカテゴリに移動し、このセクションでリポジトリにアクセスできるアカウントを招待する必要があります。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>三番目に、リポジトリに新しいブランチを追加する必要があります。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>今、作成した新しいブランチにファイルを追加する必要があります。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>ファイルを追加し、そのための説明をコミットし、最後に変更をコミットしてください。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>緑色のボタンをクリックして、比較してプルリクエストします。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>ステップ2で招待した人をレビュアーとして追加し、プルリクエストを作成します。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>最後に、レビュアーを確認して、プルリクエストをマージするために「Merge pull request」をクリックします。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストに「Yolo」の達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>リポジトリからフォークを作成する必要があります（好きなリポジトリをフォークできます）。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>フォークされたリポジトリが作成されたら、フォークされたリポジトリでいくつかの変更を行う必要があります（新しいファイルを追加したり、コードに変更を加えたりします）。その後、プルリクエストタブに移動します；</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>プルリクエストの作成ボタンをクリックします；</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>これでマージ可能な緑色のテキストが表示され、これはあなたのプルリクエストをマージできることを意味します。成功裏にプルリクエストを作成するには、「プルリクエストの作成」ボタンをクリックしてください。その後、リポジトリの作成者によってリクエストがマージされるのを待つ必要があります。</p><p>Pull Shark Achievementを取得するには、2つのマージされたプルリクエストが必要です。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストに「Pull Shark」の達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>インストールが必要です。 <a href=\"https://desktop.github.com/\">GitHub Desktop</a> , 内部のリポジトリファイルからリポジトリを追加する必要があります。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>ローカルリポジトリを追加し、変更したファイルをコミットしてプッシュしてください。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>フィルターボックスは使用せず、単に「新しいブランチ」をクリックし、リポジトリ用に新しいブランチを作成してください。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>タイトルボックスに要約を追加し、その後に説明を追加し、最後にGitHubのユーザー名で共同著者を追加してください（ファイルをプッシュせずに単にリポジトリにファイルをコミットするだけでよいです）。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>GitHubでリポジトリを確認し、担当者を追加し、その後に「プルリクエストのマージ」ボタンをクリックしてください（ペアエクストラディネールは両方のアカウント（あなたと共同著者）に与えられます）。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストに「Pair Extraordinaire」の達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>各プロジェクトに登録されているユーザー名に対して、他のユーザーや組織からスターを16個受け取るだけです。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストに「Starstruck」の達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>任意の公開リポジトリの Discussions タブを開き、Q&amp;A カテゴリ（または回答をマークできる他のカテゴリ）を選択してください。GitHub 公式の Community フォーラムでは実績が無効化されたため、そこでの回答はカウントされなくなりました。</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>今、回答されていない質問を任意のカテゴリで見つける必要があります。そして、その質問に回答してください。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>質問に正しい回答を記入してください（質問デザイナーによって提出された回答として選択されるためには、あなたの回答が最適なものでなければなりません）</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>ギャラクシーブレインのアチーブメントを取得するには、任意のカテゴリで提出された回答が2つ必要です。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストにギャラクシーブレインの達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(最初に知っておくべきことは、このバッジを取得するにはクレジットカードが必要で、ある金額を寄付する必要があります。) まず、GitHub Sponsors ページを開き、次に「See your top dependencies」ボタンをクリックしてください。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>ここで寄付できる開発者のリストが表示されます（スポンサーボタンがあるGitHubユーザーにスポンサーになることができます）。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>スポンサーになる相手を見つけたら、月々の寄付額を選択するページが表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>ここで支払いフォームがあり、支払いが完了すると、プロフィールにバッジが表示されます（ベータ版では30か国で支払い方法が利用可能です）。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>完了しました。これで、アチーブメントリストに「Public Sponsor」の達成が表示されます。</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

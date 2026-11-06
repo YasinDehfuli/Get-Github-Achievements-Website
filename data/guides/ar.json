@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>تحتاج إلى إنشاء مشكلة جديدة أو طلب سحب (Pull Request) في أي مستودع ترغب فيه.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>الآن يجب عليك كتابة عنوان وترك تعليق (إذا كنت ترغب)، ثم انقر على زر \"Submit new issue\".</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>اكتب أي تعليق تريده (يمكنك إغلاق المشكلة أو الطلب السحب دون تعليق أيضًا). ثم انقر على \"Close issue / close pull request\".</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز سريع الرد في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>أولًا، تحتاج إلى فتح المستودع والانتقال إلى الإعدادات.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>ثانيًا، تحتاج إلى الانتقال إلى فئة المشاركين وفي هذا القسم، قم بدعوة حساب لديك وصول إلى المستودع.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>ثالثًا، تحتاج إلى إضافة فرع جديد إلى مستودعك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>الآن، تحتاج إلى إضافة ملف إلى الفرع الجديد الذي أنشأته.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>أضف الملف وأكمل الوصف له وأخيرًا قم بتأكيد التغييرات الخاصة بك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>انقر على الزر الأخضر، مقارنة وإرسال طلب السحب (pull request).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>أضف الشخص الذي تمت دعوته في الخطوة 2 كمراجع، وأنشئ طلب السحب.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>في النهاية، تحقق من مراجعك ثم انقر على دمج طلب السحب.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز يولو في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>تحتاج إلى أن تقم بعمل نسخة مشتقة (fork) من مستودع (يمكنك إنشاء نسخة مشتقة من أي مستودع ترغب فيه).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>عندما يتم إنشاء مستودع النسخة المشتقة الخاص بك، تحتاج إلى إجراء بعض التغييرات على المستودع المشتق (مثل إضافة ملف جديد أو إجراء تغييرات في الشفرة). بعد ذلك، تحتاج إلى الانتقال إلى علامة طلبات السحب (pull request).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>انقر على زر إنشاء طلب سحب (create pull request).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>الآن يمكنك أن ترى نص أخضر مؤشر على إمكانية دمج الطلب الخاص بك. لذا انقر على زر إنشاء طلب السحب (create pull request) لإنشاء طلب السحب الخاص بك بنجاح. بعد ذلك، عليك الانتظار حتى يتم دمج طلبك بواسطة مُنشئ المستودع.</p><p>تحتاج إلى 2 طلب سحب مُدمج للحصول على إنجاز سمكة السحب.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز سمكة السحب في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>تحتاج إلى تثبيت <a href=\"https://desktop.github.com/\">GitHub Desktop</a> ، وتحتاج إلى إضافة مستودعك من ملف المستودع الداخلي الخاص بك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>أضف مستودعًا محليًا وقم بالتأكيد ورفع الملفات التي تم تغييرها.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>ليس هناك حاجة لاستخدام مربع التصفية، ببساطة انقر على فرع جديد وأنشئ فرعًا جديدًا لمستودعك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>أضف ملخصًا في مربع العنوان، ثم أضف وصفًا، وأخيرًا قم بإضافة مشارك بواسطة اسم المستخدم على GitHub (يجب عليك فقط التأكيد على ملف في مستودعك (لا تقم برفع الملفات)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>الآن تحقق من مستودعك على GitHub وأضف مسندات، ثم انقر على زر دمج طلب السحب (سيتم منح إنجاز الزوج الاستثنائي لكلا الحسابين (لك وللمشارك)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز الزوج الاستثنائي في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>تحتاج فقط إلى 16 نجمة لكل مشروع مُسجل تحت اسم المستخدم الخاص بك. استلمها من مستخدمين آخرين في منظمتك أو مستودعك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز معجب بالنجوم في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>افتح تبويب Discussions في أي مستودع عام واختر فئة Q&amp;A (أو أي فئة أخرى يمكن فيها تحديد إجابة). لم تعد الإجابات في منتدى GitHub Community الرسمي تُحتسب، لأن GitHub عطّل الإنجازات هناك.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>الآن يجب عليك البحث عن الأسئلة التي لم يتم الرد عليها في أي فئة تختارها والرد على هذه الأسئلة.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>اكتب إجابة صحيحة على السؤال (يجب أن تكون إجابتك أفضل إجابة ممكنة لتُختار كإجابة مُقدمة من قبل مصمم السؤال).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>تحتاج إلى إرسال إجابتين في أي فئات تختارها للحصول على إنجاز العقل الكوني.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز العقل الكوني في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(أولاً، تحتاج إلى معرفة أنه من أجل الحصول على هذا الشارة، تحتاج إلى بطاقة ائتمان والتبرع ببعض الأموال). بعد ذلك، تحتاج إلى فتح صفحة GitHub Sponsors أولاً، ثم النقر على زر \"رؤية أفضل تبعياتك\".</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>يمكنك رؤية قائمة بالمطورين الذين يمكنك التبرع لهم هنا. (يمكنك أن تصبح راعيًا لأي مستخدمي GitHub الذين لديهم زر الرعاية على صفحاتهم).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>بعد أن تجد شخصًا ترغب في دعمه، يمكنك رؤية صفحة لاختيار كمية التبرع الشهرية.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>هناك نموذج للدفع هنا، بعد انتهاء الدفع الخاص بك، يمكنك رؤية شارتك في ملفك الشخصي (في الإصدار التجريبي 30 دولة تملك طرق دفع حتى الآن).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>تمامًا، الآن يمكنك رؤية إنجاز الراعي العام في قائمة إنجازاتك.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

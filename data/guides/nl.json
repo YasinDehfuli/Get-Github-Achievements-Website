@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Je moet een New Issue of Pull Request aanmaken in een repository naar keuze.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nu moet u een titel schrijven en een opmerking achterlaten (als u dat wilt) . en dan . Klik op de knop Nieuwe uitgave indienen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Schrijf een commentaar dat u wilt (u kunt het probleem of pullverzoek ook sluiten zonder commentaar te geven) en klik vervolgens op Probleem sluiten / pullverzoek sluiten.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar, nu kun je het Quickdraw-prestatie in je lijst met prestaties zien.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Eerst moet je het archief openen en naar instellingen gaan.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ten tweede moet je naar de categorie Medewerkers gaan en in dit gedeelte een account uitnodigen waarmee je toegang hebt tot het archief.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ten derde moet je een nieuwe tak toevoegen aan je repository.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nu moet je een bestand toevoegen aan de nieuwe tak die je gemaakt hebt.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Voeg het bestand toe en leg de beschrijving vast en leg ten slotte je wijzigingen vast</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klik op de groene knop, vergelijk en pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Voeg de uitgenodigde persoon in stap-2 toe als Reviewer en maak een pull-request aan.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Controleer tenslotte of je Reviewer bent en klik dan op Merge pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar , Nu kun je die Yolo prestatie zien in je lijst met prestaties.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Je moet eender welke repository forken.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Wanneer je de fork hebt gemaakt, moet je wijzigingen aanbrengen aan de forked repository ( eender welke wijzigingen, zoals een nieuw bestand toevoegen of de code aanpassen ! ). Daarna moet je naar het pull request tabblad gaan;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klik op de 'create pull request' knop ;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nu kun je groene tekst zien die betekent dat je je pull request kunt mergen, dus klik op de 'Create Pull request' knop om je pull request aan te maken. Dan moet je wachten tot je verzoek is samengevoegd door de maker van de repository.</p><p>Je moet 2 pull requests mergen om de Pull Haai prestatie te behalen</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar, nu kan je de Pull Haai Prestatie zien in je prestatielijst.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Je moet <a href=\"https://desktop.github.com/\">GitHub Desktop</a> installeren, en je repository van het internet klonen. (als je een foutmelding vindt, moet je je repository toevoegen vanuit je interne repository bestand)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Kloon de HTTPS-link van je archief en voeg deze in het tekstvak URL in.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Je hoeft het filtervak niet te gebruiken, klik gewoon op Nieuwe branch en maak een nieuwe branch voor je archief.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Voeg een samenvatting toe in je titelvak, voeg dan een beschrijving toe, voeg als laatste een Co-Author By Username GitHub (Je hoeft alleen maar een bestand vast te leggen in je repository (Don't Push the Files)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Controleer nu je repository op GitHub en voeg Assignees toe, en klik dan op de samenvoeg pull request knop (de Pair Extraordinaire zal aan beide accounts geven (Jij en Co-Author)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar, nu kun je de prestatie Pair Extraordinaire zien in je lijst met prestaties.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Je hebt slechts 16 sterren nodig voor elk project dat onder jouw gebruikersnaam geregistreerd staat. Ontvangen van andere gebruikers van je organisatie of archief.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar, nu kun je die Starstruck prestatie zien in je lijst met prestaties.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Open het tabblad Discussions van een willekeurige openbare repository en kies de categorie Q&amp;A (of een andere categorie waarin een antwoord gemarkeerd kan worden). Antwoorden op het officiële GitHub Community-forum tellen niet meer mee, omdat GitHub daar prestaties heeft uitgeschakeld.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Nu moet je onbeantwoorde vragen vinden in de categorieën die je wilt en de vragen beantwoorden.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Schrijf het juiste antwoord op de vraag (Je antwoord moet het best mogelijke antwoord zijn om geselecteerd te worden als het ingezonden antwoord door de ontwerper van de vraag).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Je hebt twee antwoorden nodig in elke categorie om de Galaxy Brain-prestatie te krijgen.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar, nu kun je de Galaxy Brain prestatie zien in je lijst met prestaties.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Eerst moet je weten dat je voor deze badge een creditcard nodig hebt en wat geld moet doneren). Dan moet je eerst de GitHub Sponsors pagina openen, en dan op de knop See your top dependencies klikken</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Je kunt hier een lijst van ontwikkelaars zien die je kunt doneren. (Je kunt gesponsord worden door alle GitHub gebruikers die een gesponsorde knop op hun pagina's hebben).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Nadat je een persoon hebt gevonden die je wilt sponsoren, zie je een pagina waarop je kunt aangeven hoeveel je per maand wilt doneren.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Er is hier een formulier om te betalen, nadat je betaling is voltooid. Je kunt je badge in je profiel zien (in de bètaversie hebben voorlopig 30 landen betaalmethoden).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klaar, nu kun je die Publieke Sponsor Prestatie zien in je lijst van prestaties.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

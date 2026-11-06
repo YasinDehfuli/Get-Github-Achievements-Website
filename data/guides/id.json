@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Anda perlu membuat Issue atau Pull Request Baru di repositori mana pun yang Anda inginkan.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sekarang Anda harus menulis judul dan meninggalkan komentar (jika Anda mau). Kemudian klik tombol Submit new issue.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tulis komentar apa pun yang Anda inginkan (Anda dapat menutup issue atau pull request tanpa memberi komentar juga). Kemudian klik Close issue / close pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Quickdraw di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>Pertama, Anda perlu membuka repositori dan pergi ke pengaturan.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Kedua, Anda perlu pergi ke kategori kolaborator dan dalam bagian ini, undang akun yang memiliki akses ke repositori.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ketiga, Anda perlu menambahkan cabang baru ke repositori Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sekarang, Anda perlu menambahkan file ke cabang baru yang Anda buat.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tambahkan file dan lakukan deskripsi untuk itu, dan akhirnya lakukan commit perubahan Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klik tombol hijau, compare, dan pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tambahkan orang yang diundang pada langkah-2 sebagai Reviewer, dan buat pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Terakhir, Periksa bahwa Reviewer Anda dan Klik pada Merge pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Yolo di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Anda perlu fork dari sebuah repositori (Anda dapat fork dari repositori apa pun yang Anda inginkan).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Setelah repositori yang Anda fork dibuat, Anda perlu melakukan beberapa perubahan di repositori yang telah di-fork (perubahan apa pun seperti menambahkan file baru atau melakukan beberapa perubahan pada kode!). Setelah itu, pergilah ke tab pull request.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Klik tombol create pull request;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sekarang Anda dapat melihat teks hijau yang menunjukkan Anda dapat menggabungkan permintaan pull Anda, Jadi klik tombol Create Pull request untuk membuat permintaan pull Anda berhasil. Kemudian Anda harus menunggu permintaan Anda untuk digabungkan oleh pembuat repositori.</p><p>Anda membutuhkan 2 pull request yang digabungkan, untuk mendapatkan Prestasi Pull Shark</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Pull Shark di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>Anda perlu menginstal <a href=\"https://desktop.github.com/\">GitHub Desktop</a>, Anda perlu menambahkan repositori Anda dari file repositori internal Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tambahkan repositori lokal &amp; Commit dan push file yang telah diubah.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tidak perlu menggunakan kotak filter, cukup klik New branch dan Create new branch Untuk repositori Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tambahkan ringkasan dalam kotak judul Anda, Kemudian tambahkan deskripsi, Terakhir tambahkan Co-Author By Username GitHub (Anda hanya perlu melakukan commit pada file di repositori Anda (Jangan Push File)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sekarang periksa repositori Anda di GitHub dan tambahkan Assignees, Dan kemudian klik tombol Merge pull request (Pair Extraordinaire akan diberikan kepada kedua akun (Anda dan Co-Author)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Pair Extraordinaire di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Anda hanya perlu 16 bintang untuk setiap proyek yang terdaftar di repository Anda. Terima dari pengguna lain di organisasi atau repositori Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Starstruck di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Buka tab Discussions di repositori publik mana pun dan pilih kategori Q&amp;A (atau kategori lain yang memungkinkan jawaban ditandai). Jawaban di forum resmi GitHub Community tidak lagi dihitung, karena GitHub telah menonaktifkan prestasi di sana.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Sekarang Anda perlu mencari Pertanyaan yang Belum Dijawab di kategori apa pun yang Anda inginkan. dan jawablah pertanyaan tersebut.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Tulis jawaban yang benar untuk pertanyaan (Jawaban Anda harus menjadi jawaban terbaik yang mungkin untuk dipilih sebagai jawaban yang diajukan oleh desainer pertanyaan).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Anda membutuhkan dua jawaban yang diajukan di kategori apa pun yang Anda inginkan untuk mendapatkan prestasi Galaxy Brain</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Galaxy Brain di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Pertama, Anda perlu tahu, untuk mendapatkan lencana ini, Anda memerlukan kartu kredit dan menyumbangkan sejumlah uang). Kemudian Anda perlu membuka halaman GitHub Sponsors terlebih dahulu, dan kemudian klik tombol Lihat dependensi teratas Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Anda dapat melihat daftar pengembang yang dapat Anda sumbangi di sini. (Anda dapat menjadi sponsor pengguna GitHub mana pun yang memiliki tombol sponsor di halaman mereka.)</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Setelah Anda menemukan orang yang akan Anda sponsori. Anda dapat melihat halaman untuk memilih berapa banyak yang ingin Anda sumbangkan setiap bulan.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Ada formulir pembayaran di sini, setelah pembayaran Anda selesai. Anda dapat melihat lencana Anda di profil Anda (di versi Beta, 30 negara memiliki metode pembayaran untuk saat ini).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Selesai, sekarang Anda dapat melihat Prestasi Public Sponsor di daftar prestasi Anda.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}

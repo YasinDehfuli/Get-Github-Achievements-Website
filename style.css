@@ -70,10 +70,10 @@ b, strong { font-weight: 650; }
 .muted { color: var(--muted); }
 
 .skip {
-  position: absolute; left: -999px; top: 8px;
+  position: absolute; inset-inline-start: 12px; top: 8px; transform: translateY(-200%);
   background: var(--surface); color: var(--text); padding: 8px 14px; border-radius: 8px; z-index: 100;
 }
-.skip:focus { left: 12px; }
+.skip:focus { transform: none; }
 
 :focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 6px; }
 
@@ -87,13 +87,13 @@ b, strong { font-weight: 650; }
 }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 60px; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; font-family: var(--font-display); font-weight: 800; font-size: 17px; }
-.nav-links { display: flex; gap: 4px; }
+.nav-links { display: flex; align-items: center; gap: 4px; }
 .nav-links a { color: var(--muted); text-decoration: none; font-size: 15px; padding: 6px 10px; border-radius: 8px; }
 .nav-links a:hover { color: var(--text); background: var(--bg-alt); }
 .nav-links .gh { color: var(--text); font-weight: 600; }
 
 @media (max-width: 720px) {
-  .nav-links a:not(.gh) { display: none; }
+  .nav-links .hide-sm { display: none; }
   .brand span { font-size: 15px; }
 }
 
@@ -212,10 +212,10 @@ details[open] summary::before { transform: rotate(45deg); }
 summary:hover { background: var(--bg-alt); }
 
 .steps { list-style: none; counter-reset: step; margin: 0; padding: 8px 24px 28px; }
-.steps li { counter-increment: step; position: relative; padding: 18px 0 18px 52px; border-left: 2px solid var(--border); margin-left: 15px; padding-left: 36px; }
-.steps li:last-child { border-left-color: transparent; }
+.steps li { counter-increment: step; position: relative; padding-block: 18px; padding-inline: 36px 0; border-inline-start: 2px solid var(--border); margin-inline-start: 15px; }
+.steps li:last-child { border-inline-start-color: transparent; }
 .steps li::before {
-  content: counter(step); position: absolute; left: -17px; top: 14px;
+  content: counter(step); position: absolute; inset-inline-start: -17px; top: 14px;
   width: 32px; height: 32px; border-radius: 50%;
   display: grid; place-items: center;
   background: var(--surface); border: 2px solid var(--gold); color: var(--gold);
@@ -244,7 +244,7 @@ summary:hover { background: var(--bg-alt); }
   .card-body h3 { font-size: 24px; }
   summary { padding: 14px 20px; }
   .steps { padding: 4px 16px 24px; }
-  .steps li { padding-left: 28px; }
+  .steps li { padding-inline-start: 28px; }
 }
 
 /* ---------- More badges ---------- */
@@ -296,3 +296,37 @@ summary:hover { background: var(--bg-alt); }
 /* ---------- Footer ---------- */
 .footer { padding: 36px 0 48px; font-size: 14.5px; }
 .footer-inner p + p { margin-top: 6px; }
+
+/* ---------- Language menu ---------- */
+.lang-menu { position: relative; }
+.lang-menu summary {
+  padding: 6px 10px; border-radius: 8px; font-size: 15px; font-weight: 500; color: var(--text);
+  border: 1px solid var(--border); background: var(--surface); gap: 6px;
+}
+.lang-menu summary::before { display: none; }
+.lang-menu summary:hover { background: var(--bg-alt); }
+.lang-menu ul {
+  position: absolute; inset-inline-end: 0; top: calc(100% + 8px); z-index: 60;
+  list-style: none; margin: 0; padding: 6px; width: 220px; max-height: min(70vh, 520px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px; box-shadow: var(--shadow);
+}
+.lang-menu li a { display: block; padding: 7px 10px; border-radius: 8px; color: var(--text); font-size: 15px; }
+.lang-menu li a:hover { background: var(--bg-alt); }
+.lang-menu li a[aria-current="page"], .langs a[aria-current="page"] { color: var(--gold); font-weight: 700; }
+.langs a[aria-current="page"] { border-color: var(--gold); }
+@media (max-width: 420px) {
+  .hide-xs { display: none; }
+  .brand span { font-size: 14px; }
+}
+
+/* ---------- Right-to-left (Persian, Arabic) ---------- */
+[dir="rtl"] { --font-display: "Vazirmatn", ui-sans-serif, system-ui, sans-serif; --font-body: "Vazirmatn", ui-sans-serif, system-ui, sans-serif; }
+/* Monospace labels only suit Latin scripts; other scripts use the body font. */
+[dir="rtl"] .eyebrow, [dir="rtl"] .chip,
+:lang(zh) .eyebrow, :lang(zh) .chip, :lang(ja) .eyebrow, :lang(ja) .chip,
+:lang(hi) .eyebrow, :lang(hi) .chip, :lang(bn) .eyebrow, :lang(bn) .chip,
+:lang(hy) .eyebrow, :lang(hy) .chip { font-family: var(--font-body); letter-spacing: 0; text-transform: none; }
+[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3, [dir="rtl"] h4 { letter-spacing: 0; line-height: 1.4; }
+[dir="rtl"] summary::before { transform: rotate(135deg); }
+[dir="rtl"] details[open] summary::before { transform: rotate(45deg); }
+[dir="rtl"] .tip code, [dir="rtl"] .shot { direction: ltr; }

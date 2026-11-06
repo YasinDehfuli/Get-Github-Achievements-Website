@@ -1,0 +1,196 @@
+{
+ "quickdraw": [
+  {
+   "html": "<p>Herhangi bir depoda yeni bir issue veya pull request oluşturmanız gerekir.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Şimdi bir başlık yazmalı ve bir yorum bırakmalısınız (eğer isterseniz) . ve sonra . Submit New Issue butonuna tıklayın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>İstediğiniz yorumu yazın (\"Issue\" ya da \"Pull Request \"i yorum yapmadan da kapatabilirsiniz) ve ardından Close Issue / Close Pull Request butonuna tıklayın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti, şimdi bu Quickdraw Başarısını Başarılar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/quickdraw/quickdraw-step4.png",
+   "small": true
+  }
+ ],
+ "yolo": [
+  {
+   "html": "<p>İlk olarak, repoyu açmanız ve ayarlara gitmeniz gerekir.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>İkinci olarak, collaborators kategorisine gitmeniz ve bu bölümde, repository'ye erişiminiz olan bir hesabı davet etmeniz gerekir.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Üçüncü olarak, repository'nize yeni bir branch eklemeniz gerekir.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Şimdi, oluşturduğunuz yeni branch'e bir dosya eklemeniz gerekiyor.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Dosyayı ekleyin ve bunun için açıklamayı commit edin ve son olarak değişikliklerinizi commit edin</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Yeşil düğmeye tıklayın, compare ve pull request yapın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step6.png",
+   "small": false
+  },
+  {
+   "html": "<p>Adım-2'de davet edilen kişiyi Reviewer olarak ekleyin ve pull request oluşturun.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step7.png",
+   "small": false
+  },
+  {
+   "html": "<p>Son olarak, Reviewer'ınızı kontrol edin ve ardından Merge pull request'e tıklayın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step8.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti , Şimdi Yolo Başarısını başarılar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/yolo/yolo-step9.png",
+   "small": true
+  }
+ ],
+ "pull-shark": [
+  {
+   "html": "<p>Bir repository'den fork almanız gerekir (herhangi bir repository'yi forklayabilirsiniz).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Forklanan repo'nuz oluşturulduğunda, forklanan repo üzerinde bazı değişiklikler yapmanız gerekir (yeni dosya eklemek veya kodlarda bazı değişiklikler yapmak gibi herhangi bir değişiklik!), Bundan sonra, pull request sekmesine gitmeniz gerekir;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Pull Request Oluştur butonuna tıklayın;</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Şimdi yeşil metni birleştirebileceğinizi görebilirsiniz, bu da çekme isteğinizi birleştirebileceğiniz anlamına gelir, bu nedenle çekme isteğinizi başarıyla oluşturmak için Çekme İsteği Oluştur düğmesine tıklayın. Ardından, isteğinizin deponun yaratıcısı tarafından birleştirilmesini beklemeniz gerekir.</p><p>Pull Shark başarımını elde etmek için 2 birleştirilmiş çekme isteğine ihtiyacınız var.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti, şimdi bu Pull Shark Başarısını Başarılar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pull-shark/pull-step5.png",
+   "small": true
+  }
+ ],
+ "pair-extraordinaire": [
+  {
+   "html": "<p>GitHub Desktop] (https://desktop.github.com/) yüklemeniz ve deponuzu internetten klonlamanız gerekir. (Bir hata bulursanız, deponuzu dahili depo dosyanızdan eklemeniz gerekir).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Deponuzun HTTPS bağlantısını klonlayın ve URL metin kutusuna yapıştırın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Filtre kutusunu kullanmanıza gerek yok, sadece yeni dala tıklayın ve deponuz için yeni dal oluşturun.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Başlık kutunuza bir özet ekleyin, ardından bir açıklama ekleyin, son olarak GitHub kullanıcı adına göre bir ortak yazar ekleyin (Deponuzda bir dosya işlemeniz yeterlidir (Dosyaları itmeyin)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Şimdi GitHub'daki deponuzu kontrol edin ve Assignees ekleyin ve ardından Merge pull request düğmesine tıklayın (The pair Extraordinaire her iki hesabı da verecektir (siz ve Ortak yazar)).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step5.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti, şimdi bu Pair Extraordinaire başarımını Başarılar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/pair-extraordinaire/pair-step6.png",
+   "small": true
+  }
+ ],
+ "starstruck": [
+  {
+   "html": "<p>Kullanıcı adınıza kayıtlı her proje için yalnızca 16 yıldıza ihtiyacınız var. Bunları kuruluşunuzdaki veya deponuzdaki diğer kullanıcılardan alın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti, artık Starstruck başarımını başarımlar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/starstruck/starstruck-step2.png",
+   "small": true
+  }
+ ],
+ "galaxy-brain": [
+  {
+   "html": "<p>Herhangi bir herkese açık deponun Discussions sekmesini açın ve Q&amp;A kategorisini (veya bir cevabın işaretlenebildiği başka bir kategoriyi) seçin. GitHub'ın kendi Community forumundaki cevaplar artık sayılmıyor, çünkü GitHub orada başarımları devre dışı bıraktı.</p>",
+   "img": null,
+   "small": false
+  },
+  {
+   "html": "<p>Şimdi istediğiniz herhangi bir kategoride Cevaplanmamış Soruları bulmanız gerekiyor. ve soruları cevaplayın.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Soruya doğru cevabı yazın (Cevabınız, soru tasarımcısı tarafından gönderilen cevap olarak seçilmek için mümkün olan en iyi cevap olmalıdır).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Galaxy Brain başarımını elde etmek için istediğiniz herhangi bir kategoride iki cevap göndermeniz gerekir</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti , Artık Galaxy Brain Başarımını başarımlar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/galaxy-brain/galaxy-step5.png",
+   "small": true
+  }
+ ],
+ "public-sponsor": [
+  {
+   "html": "<p>(Öncelikle bilmeniz gereken, bu rozeti almak ve biraz para bağışlamak için kredi kartına ihtiyacınız var). Ardından önce GitHub Sponsorlar sayfasını açmanız ve ardından En iyi bağımlılıklarınızı görün düğmesine tıklamanız gerekir</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step1.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bağış yapabileceğiniz geliştiricilerin bir listesini burada görebilirsiniz (sayfalarında sponsorlu bir düğme bulunan herhangi bir GitHub kullanıcısına sponsor olabilirsiniz).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step2.png",
+   "small": false
+  },
+  {
+   "html": "<p>Sponsor olacak bir kişi bulduktan sonra, aylık ne kadar bağış yapmak istediğinizi seçebileceğiniz bir sayfa görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step3.png",
+   "small": false
+  },
+  {
+   "html": "<p>Burada ödeme yapmak için bir form var, ödemeniz yapıldıktan sonra. Rozetinizi profilinizde görebilirsiniz (Beta sürümünde şimdilik 30 ülkede ödeme yöntemleri var).</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step4.png",
+   "small": false
+  },
+  {
+   "html": "<p>Bitti, artık bu Public Sponsor Başarımını başarımlar listenizde görebilirsiniz.</p>",
+   "img": "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/img/public-sponsor/sponsor-step5.png",
+   "small": true
+  }
+ ]
+}
