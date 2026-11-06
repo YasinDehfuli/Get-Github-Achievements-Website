@@ -18,6 +18,12 @@ SITE = "https://yasindehfuli.github.io/Get-Github-Achievements-Website/"
 RAW = "https://raw.githubusercontent.com/4xmen/Get-Github-Achievements/main/assets/"
 REPO = "https://github.com/4xmen/Get-Github-Achievements"
 
+# Search engine ownership checks. Paste the "content" value of the
+# <meta name="google-site-verification" ...> tag from Google Search Console
+# (and optionally Bing Webmaster Tools' msvalidate.01), then rebuild.
+GOOGLE_SITE_VERIFICATION = ""
+BING_SITE_VERIFICATION = ""
+
 # site code -> (html lang, direction, original README file)
 LANGUAGES = {
     "en": ("en", "ltr", "README.md"),
@@ -151,6 +157,12 @@ def render_page(code, t, guides, names):
         "isBasedOn": REPO,
     }, ensure_ascii=False).replace("</", "<\\/")
 
+    verification = ""
+    if GOOGLE_SITE_VERIFICATION:
+        verification += f'\n  <meta name="google-site-verification" content="{escape(GOOGLE_SITE_VERIFICATION)}">'
+    if BING_SITE_VERIFICATION:
+        verification += f'\n  <meta name="msvalidate.01" content="{escape(BING_SITE_VERIFICATION)}">'
+
     rtl_font = ""
     if direction == "rtl":
         rtl_font = ('\n  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;800&display=swap" '
@@ -165,7 +177,7 @@ def render_page(code, t, guides, names):
   <meta name="description" content="{escape(t["meta_description"])}">
   <meta name="theme-color" content="#0c0e13" media="(prefers-color-scheme: dark)">
   <meta name="theme-color" content="#f7f5ef" media="(prefers-color-scheme: light)">
-  <link rel="canonical" href="{page_url(code)}">
+  <link rel="canonical" href="{page_url(code)}">{verification}
 {alternates}
   <meta property="og:type" content="website">
   <meta property="og:title" content="{escape(t["og_title"])}">
